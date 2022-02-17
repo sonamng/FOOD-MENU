@@ -1,0 +1,123 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+} 
+
+
+body{
+    background-color: blueviolet;
+} 
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+}
+
+p{
+    text-align: center;
+    color: white;
+    margin-top: 1rem;
+}
+
+
+.btn{
+    background-color: white;
+    border: none;
+    border-color: black;
+    color: rgb(94, 90, 90);
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 45%;
+    margin-top: 1rem;
+
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    margin-top: 2px;
+    margin-left: 15px;
+    margin-top: 3rem;
+
+}
+
+.page-header{
+    background: #f2f2f2;
+    border: none;
+    height: 70px;
+    position: relative;
+    text-align: center;
+    
+}
+
+
+.main-div{
+    display: flex;
+    margin-left: 310px;
+}
+
+.para1{
+    margin-right: 60px;
+    color: lightsteelblue;
+}
+
+
+.para2{
+    margin-right: 60px;
+    color: lightsteelblue;
+
+}
+
+
+.para3{
+    margin-right: 60px;
+    color: lightsteelblue;
+
+}
+
+
+h4{
+    margin-top: 1rem;
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+
+.one{
+    margin-right: 2%;
+}
+
+
+.two{
+    margin-right: 2%;
+}
+
+
+.doller{
+    color: white;
+    margin-left: 140px;
+    font-size: 20px;
+    margin-top: 1rem;
+    
+
+}
+
+
+h4{
+    color: white;
+}
+
+
+.black-box{
+    background: indigo;
+    height: 90px;
+    position: relative;
+    margin-top: 135px;
+} 
